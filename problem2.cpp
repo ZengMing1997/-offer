@@ -1,3 +1,4 @@
+//p41不修改数组找到重复的数字
 #include <bits/stdc++.h>
 using namespace std;
 const int maxn = 1e5+10;
